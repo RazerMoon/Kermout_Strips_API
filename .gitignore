@@ -1,0 +1,10 @@
+.vscode
+kermout_strips_api.egg-info
+__pycache__
+Pipfile
+Pipfile.lock
+outertest.py
+.token
+build
+dist
+setup.py
